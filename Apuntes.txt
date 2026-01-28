@@ -1,0 +1,10 @@
+COMO CREAR UN COMPONENT 
+TERMINAL:: ng generate component components/footer
+					"components/footer crear una carpeta con los los componentes de footer"
+	COMANDOS PARA GENERAR ALGO MODESTO
+	ng generate component pages/contact
+	ng generate component pages/about
+	ng generate component pages/products
+	ng generate component pages/home
+	ng generate component components/footer
+	ng generate component components/header
